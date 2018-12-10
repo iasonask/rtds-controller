@@ -3,5 +3,5 @@ through the RSCAD interface.
 
 Instructions on how to use the api are provided in the test class testRtdsCon.java
 
-Before using the given API the ListenOnPort script should be running in the 
+Before using the given API the ListenOnPort.scr script should be running in the 
 RSCAD environment.
